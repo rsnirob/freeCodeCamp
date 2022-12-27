@@ -1,11 +1,20 @@
 .one {
+  /*
+  chartreuse green (green + yellow)
+  */
   background-color: rgb(127, 255, 0);
 }
 
 .two {
+  /*
+  azure (blue + cyan)
+  */
   background-color: rgb(0, 127, 255);
 }
 
 .three {
+  /*
+  rose (red + magenta)
+  */
   background-color: rgb(255, 0, 127);
 }
